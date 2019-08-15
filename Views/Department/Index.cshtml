@@ -1,0 +1,41 @@
+﻿@model IEnumerable<HR_Project.Models.Department>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h2>All Departmens</h2>
+
+<p>
+    <a asp-action="Create" class="btn btn-primary">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.DeptName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.DeptLocation)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.DeptName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.DeptLocation)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.DeptId" class="btn btn-xs btn-warning">Edit</a> 
+                <a asp-action="Details" asp-route-id="@item.DeptId" class="btn btn-xs btn-info">Details</a> 
+                <a asp-action="Delete" asp-route-id="@item.DeptId" class="btn btn-xs btn-danger">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
