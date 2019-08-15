@@ -1,0 +1,84 @@
+D:\Centennial\Software-Engineering\3-Summer-2019\COMP229-Web-Application\HR_Project\HR_Project\bin\Debug\netcoreapp2.1\HR_Project.deps.json
+D:\Centennial\Software-Engineering\3-Summer-2019\COMP229-Web-Application\HR_Project\HR_Project\bin\Debug\netcoreapp2.1\HR_Project.runtimeconfig.json
+D:\Centennial\Software-Engineering\3-Summer-2019\COMP229-Web-Application\HR_Project\HR_Project\bin\Debug\netcoreapp2.1\HR_Project.runtimeconfig.dev.json
+D:\Centennial\Software-Engineering\3-Summer-2019\COMP229-Web-Application\HR_Project\HR_Project\bin\Debug\netcoreapp2.1\HR_Project.dll
+D:\Centennial\Software-Engineering\3-Summer-2019\COMP229-Web-Application\HR_Project\HR_Project\obj\Debug\netcoreapp2.1\HR_Project.csproj.CoreCompileInputs.cache
+D:\Centennial\Software-Engineering\3-Summer-2019\COMP229-Web-Application\HR_Project\HR_Project\obj\Debug\netcoreapp2.1\HR_Project.RazorAssemblyInfo.cache
+D:\Centennial\Software-Engineering\3-Summer-2019\COMP229-Web-Application\HR_Project\HR_Project\obj\Debug\netcoreapp2.1\HR_Project.RazorAssemblyInfo.cs
+D:\Centennial\Software-Engineering\3-Summer-2019\COMP229-Web-Application\HR_Project\HR_Project\obj\Debug\netcoreapp2.1\HR_Project.AssemblyInfoInputs.cache
+D:\Centennial\Software-Engineering\3-Summer-2019\COMP229-Web-Application\HR_Project\HR_Project\obj\Debug\netcoreapp2.1\HR_Project.AssemblyInfo.cs
+D:\Centennial\Software-Engineering\3-Summer-2019\COMP229-Web-Application\HR_Project\HR_Project\obj\Debug\netcoreapp2.1\HR_Project.TagHelpers.input.cache
+D:\Centennial\Software-Engineering\3-Summer-2019\COMP229-Web-Application\HR_Project\HR_Project\obj\Debug\netcoreapp2.1\HR_Project.TagHelpers.output.cache
+D:\Centennial\Software-Engineering\3-Summer-2019\COMP229-Web-Application\HR_Project\HR_Project\obj\Debug\netcoreapp2.1\HR_Project.RazorCoreGenerate.cache
+D:\Centennial\Software-Engineering\3-Summer-2019\COMP229-Web-Application\HR_Project\HR_Project\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+D:\Centennial\Software-Engineering\3-Summer-2019\COMP229-Web-Application\HR_Project\HR_Project\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+D:\Centennial\Software-Engineering\3-Summer-2019\COMP229-Web-Application\HR_Project\HR_Project\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+D:\Centennial\Software-Engineering\3-Summer-2019\COMP229-Web-Application\HR_Project\HR_Project\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+D:\Centennial\Software-Engineering\3-Summer-2019\COMP229-Web-Application\HR_Project\HR_Project\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+D:\Centennial\Software-Engineering\3-Summer-2019\COMP229-Web-Application\HR_Project\HR_Project\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+D:\Centennial\Software-Engineering\3-Summer-2019\COMP229-Web-Application\HR_Project\HR_Project\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+D:\Centennial\Software-Engineering\3-Summer-2019\COMP229-Web-Application\HR_Project\HR_Project\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+D:\Centennial\Software-Engineering\3-Summer-2019\COMP229-Web-Application\HR_Project\HR_Project\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+D:\Centennial\Software-Engineering\3-Summer-2019\COMP229-Web-Application\HR_Project\HR_Project\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+D:\Centennial\Software-Engineering\3-Summer-2019\COMP229-Web-Application\HR_Project\HR_Project\obj\Debug\netcoreapp2.1\HR_Project.RazorTargetAssemblyInfo.cache
+D:\Centennial\Software-Engineering\3-Summer-2019\COMP229-Web-Application\HR_Project\HR_Project\obj\Debug\netcoreapp2.1\HR_Project.RazorTargetAssemblyInfo.cs
+D:\Centennial\Software-Engineering\3-Summer-2019\COMP229-Web-Application\HR_Project\HR_Project\bin\Debug\netcoreapp2.1\HR_Project.pdb
+D:\Centennial\Software-Engineering\3-Summer-2019\COMP229-Web-Application\HR_Project\HR_Project\bin\Debug\netcoreapp2.1\HR_Project.Views.dll
+D:\Centennial\Software-Engineering\3-Summer-2019\COMP229-Web-Application\HR_Project\HR_Project\bin\Debug\netcoreapp2.1\HR_Project.Views.pdb
+D:\Centennial\Software-Engineering\3-Summer-2019\COMP229-Web-Application\HR_Project\HR_Project\obj\Debug\netcoreapp2.1\HR_Project.Views.pdb
+D:\Centennial\Software-Engineering\3-Summer-2019\COMP229-Web-Application\HR_Project\HR_Project\obj\Debug\netcoreapp2.1\HR_Project.dll
+D:\Centennial\Software-Engineering\3-Summer-2019\COMP229-Web-Application\HR_Project\HR_Project\obj\Debug\netcoreapp2.1\HR_Project.pdb
+D:\Centennial\Software-Engineering\3-Summer-2019\COMP229-Web-Application\HR_Project\HR_Project\obj\Debug\netcoreapp2.1\HR_Project.csproj.CopyComplete
+D:\Centennial\Software-Engineering\3-Summer-2019\COMP229-Web-Application\HR_Project\HR_Project\obj\Debug\netcoreapp2.1\Razor\Views\JobRole\Index.g.cshtml.cs
+D:\Centennial\Software-Engineering\3-Summer-2019\COMP229-Web-Application\HR_Project\HR_Project\obj\Debug\netcoreapp2.1\Razor\Views\JobRole\Create.g.cshtml.cs
+D:\Centennial\Software-Engineering\3-Summer-2019\COMP229-Web-Application\HR_Project\HR_Project\obj\Debug\netcoreapp2.1\Razor\Views\Employee\Create.g.cshtml.cs
+D:\Centennial\Software-Engineering\3-Summer-2019\COMP229-Web-Application\HR_Project\HR_Project\obj\Debug\netcoreapp2.1\Razor\Views\Employee\Index.g.cshtml.cs
+D:\Centennial\Software-Engineering\3-Summer-2019\COMP229-Web-Application\HR_Project\HR_Project\obj\Debug\netcoreapp2.1\Razor\Views\Department\Index.g.cshtml.cs
+D:\Centennial\Software-Engineering\3-Summer-2019\COMP229-Web-Application\HR_Project\HR_Project\obj\Debug\netcoreapp2.1\Razor\Views\Department\Create.g.cshtml.cs
+D:\Centennial\Software-Engineering\3-Summer-2019\COMP229-Web-Application\HR_Project\HR_Project\obj\Debug\netcoreapp2.1\Razor\Views\Department\Delete.g.cshtml.cs
+D:\Centennial\Software-Engineering\3-Summer-2019\COMP229-Web-Application\HR_Project\HR_Project\obj\Debug\netcoreapp2.1\Razor\Views\JobRole\Delete.g.cshtml.cs
+D:\Centennial\Software-Engineering\3-Summer-2019\COMP229-Web-Application\HR_Project\HR_Project\obj\Debug\netcoreapp2.1\Razor\Views\Employee\Delete.g.cshtml.cs
+D:\Centennial\Software-Engineering\3-Summer-2019\COMP229-Web-Application\HR_Project\HR_Project\obj\Debug\netcoreapp2.1\Razor\Views\Department\Details.g.cshtml.cs
+D:\Centennial\Software-Engineering\3-Summer-2019\COMP229-Web-Application\HR_Project\HR_Project\obj\Debug\netcoreapp2.1\HR_Project.csprojAssemblyReference.cache
+C:\Users\Thalyta\Dropbox\COMP 229 - Web Application Development\HR_Project\HR_Project\bin\Debug\netcoreapp2.1\HR_Project.deps.json
+C:\Users\Thalyta\Dropbox\COMP 229 - Web Application Development\HR_Project\HR_Project\bin\Debug\netcoreapp2.1\HR_Project.runtimeconfig.json
+C:\Users\Thalyta\Dropbox\COMP 229 - Web Application Development\HR_Project\HR_Project\bin\Debug\netcoreapp2.1\HR_Project.runtimeconfig.dev.json
+C:\Users\Thalyta\Dropbox\COMP 229 - Web Application Development\HR_Project\HR_Project\bin\Debug\netcoreapp2.1\HR_Project.dll
+C:\Users\Thalyta\Dropbox\COMP 229 - Web Application Development\HR_Project\HR_Project\bin\Debug\netcoreapp2.1\HR_Project.pdb
+C:\Users\Thalyta\Dropbox\COMP 229 - Web Application Development\HR_Project\HR_Project\bin\Debug\netcoreapp2.1\HR_Project.Views.dll
+C:\Users\Thalyta\Dropbox\COMP 229 - Web Application Development\HR_Project\HR_Project\bin\Debug\netcoreapp2.1\HR_Project.Views.pdb
+C:\Users\Thalyta\Dropbox\COMP 229 - Web Application Development\HR_Project\HR_Project\obj\Debug\netcoreapp2.1\HR_Project.csprojAssemblyReference.cache
+C:\Users\Thalyta\Dropbox\COMP 229 - Web Application Development\HR_Project\HR_Project\obj\Debug\netcoreapp2.1\HR_Project.csproj.CoreCompileInputs.cache
+C:\Users\Thalyta\Dropbox\COMP 229 - Web Application Development\HR_Project\HR_Project\obj\Debug\netcoreapp2.1\HR_Project.RazorAssemblyInfo.cache
+C:\Users\Thalyta\Dropbox\COMP 229 - Web Application Development\HR_Project\HR_Project\obj\Debug\netcoreapp2.1\HR_Project.RazorAssemblyInfo.cs
+C:\Users\Thalyta\Dropbox\COMP 229 - Web Application Development\HR_Project\HR_Project\obj\Debug\netcoreapp2.1\HR_Project.AssemblyInfoInputs.cache
+C:\Users\Thalyta\Dropbox\COMP 229 - Web Application Development\HR_Project\HR_Project\obj\Debug\netcoreapp2.1\HR_Project.AssemblyInfo.cs
+C:\Users\Thalyta\Dropbox\COMP 229 - Web Application Development\HR_Project\HR_Project\obj\Debug\netcoreapp2.1\HR_Project.TagHelpers.input.cache
+C:\Users\Thalyta\Dropbox\COMP 229 - Web Application Development\HR_Project\HR_Project\obj\Debug\netcoreapp2.1\HR_Project.TagHelpers.output.cache
+C:\Users\Thalyta\Dropbox\COMP 229 - Web Application Development\HR_Project\HR_Project\obj\Debug\netcoreapp2.1\HR_Project.RazorCoreGenerate.cache
+C:\Users\Thalyta\Dropbox\COMP 229 - Web Application Development\HR_Project\HR_Project\obj\Debug\netcoreapp2.1\Razor\Views\Department\Create.g.cshtml.cs
+C:\Users\Thalyta\Dropbox\COMP 229 - Web Application Development\HR_Project\HR_Project\obj\Debug\netcoreapp2.1\Razor\Views\Department\Delete.g.cshtml.cs
+C:\Users\Thalyta\Dropbox\COMP 229 - Web Application Development\HR_Project\HR_Project\obj\Debug\netcoreapp2.1\Razor\Views\Department\Details.g.cshtml.cs
+C:\Users\Thalyta\Dropbox\COMP 229 - Web Application Development\HR_Project\HR_Project\obj\Debug\netcoreapp2.1\Razor\Views\Department\Index.g.cshtml.cs
+C:\Users\Thalyta\Dropbox\COMP 229 - Web Application Development\HR_Project\HR_Project\obj\Debug\netcoreapp2.1\Razor\Views\Employee\Create.g.cshtml.cs
+C:\Users\Thalyta\Dropbox\COMP 229 - Web Application Development\HR_Project\HR_Project\obj\Debug\netcoreapp2.1\Razor\Views\Employee\Delete.g.cshtml.cs
+C:\Users\Thalyta\Dropbox\COMP 229 - Web Application Development\HR_Project\HR_Project\obj\Debug\netcoreapp2.1\Razor\Views\Employee\Index.g.cshtml.cs
+C:\Users\Thalyta\Dropbox\COMP 229 - Web Application Development\HR_Project\HR_Project\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+C:\Users\Thalyta\Dropbox\COMP 229 - Web Application Development\HR_Project\HR_Project\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+C:\Users\Thalyta\Dropbox\COMP 229 - Web Application Development\HR_Project\HR_Project\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\Thalyta\Dropbox\COMP 229 - Web Application Development\HR_Project\HR_Project\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\Thalyta\Dropbox\COMP 229 - Web Application Development\HR_Project\HR_Project\obj\Debug\netcoreapp2.1\Razor\Views\JobRole\Create.g.cshtml.cs
+C:\Users\Thalyta\Dropbox\COMP 229 - Web Application Development\HR_Project\HR_Project\obj\Debug\netcoreapp2.1\Razor\Views\JobRole\Delete.g.cshtml.cs
+C:\Users\Thalyta\Dropbox\COMP 229 - Web Application Development\HR_Project\HR_Project\obj\Debug\netcoreapp2.1\Razor\Views\JobRole\Index.g.cshtml.cs
+C:\Users\Thalyta\Dropbox\COMP 229 - Web Application Development\HR_Project\HR_Project\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\Thalyta\Dropbox\COMP 229 - Web Application Development\HR_Project\HR_Project\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\Thalyta\Dropbox\COMP 229 - Web Application Development\HR_Project\HR_Project\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\Thalyta\Dropbox\COMP 229 - Web Application Development\HR_Project\HR_Project\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\Thalyta\Dropbox\COMP 229 - Web Application Development\HR_Project\HR_Project\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\Thalyta\Dropbox\COMP 229 - Web Application Development\HR_Project\HR_Project\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\Thalyta\Dropbox\COMP 229 - Web Application Development\HR_Project\HR_Project\obj\Debug\netcoreapp2.1\HR_Project.RazorTargetAssemblyInfo.cache
+C:\Users\Thalyta\Dropbox\COMP 229 - Web Application Development\HR_Project\HR_Project\obj\Debug\netcoreapp2.1\HR_Project.RazorTargetAssemblyInfo.cs
+C:\Users\Thalyta\Dropbox\COMP 229 - Web Application Development\HR_Project\HR_Project\obj\Debug\netcoreapp2.1\HR_Project.Views.pdb
+C:\Users\Thalyta\Dropbox\COMP 229 - Web Application Development\HR_Project\HR_Project\obj\Debug\netcoreapp2.1\HR_Project.dll
+C:\Users\Thalyta\Dropbox\COMP 229 - Web Application Development\HR_Project\HR_Project\obj\Debug\netcoreapp2.1\HR_Project.pdb
+C:\Users\Thalyta\Dropbox\COMP 229 - Web Application Development\HR_Project\HR_Project\obj\Debug\netcoreapp2.1\HR_Project.csproj.CopyComplete
